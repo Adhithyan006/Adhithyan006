@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<!-- ===== CINEMATIC NAME BANNER (DARK BLUE ANIMATION) ===== -->
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&section=header&text=ADHITHYAN%20M&fontSize=76&fontColor=EAF2FF&stroke=5FA8FF&strokeWidth=3&animation=fadeIn&fontAlignY=38&color=0:020B2D,50:041B4E,100:020B2D" width="100%" />
-
-<!-- ===== BANNER LINE (CREATIVE AI ADDED – STYLE UNCHANGED) ===== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=26&pause=1200&color=6FA8FF&center=true&vCenter=true&width=980&lines=Creative+AI+Problem+Solver;Intelligent+AI-Driven+Software+Systems;Engineering+Reliable+and+Practical+AI+Solutions" />
 
@@ -17,18 +13,8 @@
 ### Professional Overview
 
 <p align="center">
-An engineer focused on designing and delivering <b>AI-powered intelligent software systems</b> with a strong emphasis on clarity, reliability, and real-world usability. Work is centered around structured problem solving, disciplined engineering practices, and building AI solutions that remain maintainable, scalable, and practical.
+An engineer focused on designing and delivering <b>AI-powered intelligent software systems</b> with strong emphasis on clarity, reliability, and real-world usability. Driven by disciplined engineering and impact-oriented problem solving.
 </p>
-
----
-
-### Professional Philosophy
-
-<ul>
-<li>Creative AI should simplify systems, not complicate them</li>
-<li>Engineering decisions must prioritize reliability and longevity</li>
-<li>Artificial intelligence is valuable only when it delivers real impact</li>
-</ul>
 
 ---
 
@@ -53,7 +39,6 @@ An engineer focused on designing and delivering <b>AI-powered intelligent softwa
 ### Selected Engineering Work
 
 <table width="100%" cellpadding="18">
-
 <tr>
 
 <td width="33%" valign="top">
@@ -84,28 +69,28 @@ Intelligent IoT prototype monitoring environmental data to evaluate freshness le
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-### GitHub Analytics
+### Achievements
 
-<div align="center">
+• Awarded CodeChef Certification for solving a 500+ difficulty problem, demonstrating competitive programming clarity  
+• Built Power BI dashboards enabling clear analytics and actionable insights  
+• Published research paper titled <i>Smart Library and Book Access System Using IoT</i> at ICCCSS’25  
+• AI For All Achiever – Awarded dual badges (AI Aware & AI Appreciate) for ethical and inclusive AI fluency  
+• One Million Prompters – Certified in AI Prompt Engineering (Dubai Centre for AI & Dubai Future Foundation)  
+• ISRO Acknowledged Contributor – Space technology idea recognized at Bharatiya Antariksh Hackathon 2025 (H2S Innovation)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adhithyan006&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyan006&layout=compact&hide_border=true&theme=transparent" width="48%" />
+### Volunteering & Leadership
 
-<br><br>
-
-<!-- <img src="https://streak-stats.demolab.com?user=Adhithyan006&hide_border=true&theme=transparent" width="65%" /> -->
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhithyan006&bg_color=020B2D&color=9FBFFF&line=5FA8FF&point=EAF2FF&hide_border=true" width="95%" />
-
-</div>
+• Volunteered in rural education initiatives, mentoring students in coding and AI fundamentals  
+• Motivational public speaker with strong communication skills and measurable personal impact  
+• Trusted with responsibilities involving task coordination, execution, and proactive leadership  
+• Disciplined time manager balancing multiple commitments with clarity and on-time delivery  
+• Agile learner with rapid adaptability, precision thinking, and consistent performance
 
 ---
 
@@ -116,7 +101,5 @@ Intelligent IoT prototype monitoring environmental data to evaluate freshness le
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020B2D,100:041B4E" />
-
 </div>
